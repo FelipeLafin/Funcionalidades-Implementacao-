@@ -16,14 +16,6 @@
 * Verificar sedes existentes
 * Preço de cada consulta
 * Horário de chegada do funcionário
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+<br>
 
-# 💻Código
+# 💻Teste Código
