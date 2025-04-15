@@ -8,20 +8,30 @@
 <br></br>
 
 # 🔨Funcionalidades
-* Plano de Saúde do cliente <strong> (To Do)</strong>
-* Metodos de pagamento <strong> (To Do)</strong>
+* Plano de Saúde do cliente <strong> (To Do)</strong> <br>
+    <sub>A ideia de implementar essa funcionalidade de [Plano de Saúde](main/README.md) é possibilitar o cliente usar um plano de saúde na hora de realizar o pagamento de uma consulta médica.</sub>
+<br>-------------------------------------------------------------------------------------------------------------------------------</br>
+* Metodos de pagamento <strong> (To Do)</strong> <br>
+    <sub>A funcionalidade [Métodos de pagamento](main/README.md) permite o cliente alterar a forma de pagamento da consulta (PIX, crédito, débito, boleto ou pagar usando plano de saúde)</sub>
+<br>-------------------------------------------------------------------------------------------------------------------------------</br>
 * Serviços disponíveis, exemplos:
 <br><p2>- Consulta médica </p2>
 <br><p2>- Odontologista </p2>
 <br><p2>- Cirurgias </p2>
 <br><p2>- Otorrino </p2>
 <br><p2>- Fisioterapeuta </p2>
-<br><p2>- ETC...  </p2><br>
-
-* Verificar sedes existentes
-* Preço de cada consulta
-* Horário de chegada do funcionário
-<br></br>
+<br><p2>- ETC...  </p2></br>
+    <sub>Bem como descrito, a funcionalidade [Serviços disponíveis](main/README.md) serve para informar quais os serviços de atendimento o hospital fornece ao cliente.</sub>
+<br>-------------------------------------------------------------------------------------------------------------------------------</br>
+* Verificar sedes existentes <br>
+    <sub>Essa funcionalidade de [Verificar Sedes Existentes](main/README.md) poderia ser usada para justamente mostrar quais as sedes do hospital estão disponíveis ao cliente e o atendimento que ele procura (pois pode nao ter no hospital daquela região).</sub>
+<br>-------------------------------------------------------------------------------------------------------------------------------</br>
+* Preço de cada consulta <br>
+    <sub>A ideia de implementar essa funcionalidade de [Preço de cada consulta](main/README.md) é obviamente informar o preço de cada consulta.</sub>
+<br>-------------------------------------------------------------------------------------------------------------------------------</br>
+* Horário de chegada do funcionário <br>
+    <sub>A funcionalidade [Horário de chegada](main/README.md) é interessante para o próprio funcionário registrar a hora de chegada e saída do trabalho (bater o ponto).</sub>
+<br>-------------------------------------------------------------------------------------------------------------------------------</br>
 
 # 💻Código
 ~~~java
