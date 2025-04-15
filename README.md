@@ -1,6 +1,6 @@
 # Menu Rápido:
 * [🔨Funcionalidades](#Funcionalidades)
-* [💻Codigo](#Codigo)
+* [💻Código](#Código)
 
 # 🔨Funcionalidades
 * Plano de Saúde do cliente
@@ -26,4 +26,4 @@
 <br></br>
 <br></br>
 
-# 💻Codigo
+# 💻Código
