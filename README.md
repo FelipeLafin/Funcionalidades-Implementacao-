@@ -1,6 +1,6 @@
 # Menu Rápido:
-* [🔨Funcionalidades](#Funcionalidades)
-* [💻Código](#Código)
+* [🔨Novas Funcionalidades](#Funcionalidades)
+* [💻Implementação do Código](#Código)
 
 # 🔨Funcionalidades
 * Plano de Saúde do cliente
@@ -18,4 +18,4 @@
 * Horário de chegada do funcionário
 <br>
 
-# 💻Teste Código
+# 💻Código
