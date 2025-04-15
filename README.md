@@ -1,8 +1,8 @@
 # Menu Rápido:
-* [Novas Funcionalidades](##🔨Funcionalidades)
+* [🔨Funcionalidades](#🔨Funcionalidades)
 * [Codigo](#Codigo)
 
-## 🔨Funcionalidades:
+# 🔨Funcionalidades
 * Plano de Saúde do cliente
 * Metodos de pagamento
 * Serviços disponíveis, exemplos:
